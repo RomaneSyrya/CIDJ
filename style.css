@@ -1,0 +1,42 @@
+h1 {
+	color: #189688;
+font-family: 'Quicksand', sans-serif, calibri, verdana, 'times new roman';
+font-size: 20px;}
+
+h2
+{
+	color: #1CAF9E;
+font-family: 'Quicksand', sans-serif, calibri, verdana, 'times new roman';
+font-size: 20px;
+font-style: italic;
+font-variant: small-caps;}
+
+
+p{
+	font-family: 'Quicksand', calibri, verdana, 'times new roman';
+	font-size: 12px;
+}
+
+.fa-envelope-open {	font-size: 15px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+.fa-comment-alt {
+	font-size: 15px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+.fa-phone {
+	font-size: 15px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+ul:hover {
+	color: blue;
+}
